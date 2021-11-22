@@ -1,2 +1,1 @@
-# practica_github
-# sergio schinca vanini
+maria jose moretti
