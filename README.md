@@ -1,2 +1,1 @@
-# practica_github
-maría josé moretti
+maria jose moretti
